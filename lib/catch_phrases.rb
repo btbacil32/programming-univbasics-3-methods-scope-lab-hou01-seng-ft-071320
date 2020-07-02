@@ -13,3 +13,9 @@ def link
   comment = 'It\'s Dangerous To Go Alone! Take This.'
   puts comment
 end
+
+def all_phrases
+  mario
+  toadstool
+  link
+end
